@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "28830311-dac8-4694-a3a7-696a490043c1"
+      }
+    },
+    "owner": "ryelbanfield"
   }
 }
